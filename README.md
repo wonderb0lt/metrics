@@ -2,8 +2,8 @@
 
 A package that reports usage information to [Google Analytics][GA].
 
-If you do not want this information reported, disable this package from the
-_Metrics_ section of the Settings view (`cmd-,`).
+If you do not want this information reported, disable this package (_metrics_) from the
+_Packages_ section of the Settings view (`cmd-,`).
 
 ### Collected Data
 
